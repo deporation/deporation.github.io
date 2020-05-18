@@ -95,6 +95,6 @@ service-worker: true
 friends: [
     {
         title: "stonepy",
-        href: ""
+        href: "39.105.14.68"
     }
 ]
